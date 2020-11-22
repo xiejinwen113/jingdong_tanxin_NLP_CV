@@ -3,15 +3,19 @@
 
 课程宣传：
 
-<img src="https://github.com/MemorialCheng/JD_NLP/blob/master/images/5.png" width=400>
+<img src="https://github.com/dingtom/jingdong_tanxin_NLP_CV/blob/main/%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95/1.png" width=400>
 
-<img src="https://github.com/MemorialCheng/JD_NLP/blob/master/images/4.png" width=400>
+<img src="https://github.com/dingtom/jingdong_tanxin_NLP_CV/blob/main/%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95/2.png" width=400>
 
-<img src="https://github.com/MemorialCheng/JD_NLP/blob/master/images/3.png" width=400>
+<img src="https://github.com/dingtom/jingdong_tanxin_NLP_CV/blob/main/%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95/3.png" width=400>
 
-<img src="https://github.com/MemorialCheng/JD_NLP/blob/master/images/2.png" width=400>
+<img src="https://github.com/dingtom/jingdong_tanxin_NLP_CV/blob/main/%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95/4.png" width=400>
 
-<img src="https://github.com/MemorialCheng/JD_NLP/blob/master/images/1.png" width=400>
+<img src="https://github.com/dingtom/jingdong_tanxin_NLP_CV/blob/main/%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95/5.png" width=400>
 
 具体文件：
 
+
+<img src="https://github.com/dingtom/jingdong_tanxin_NLP_CV/blob/main/%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95/nlp.PNG" width=400>
+
+<img src="https://github.com/dingtom/jingdong_tanxin_NLP_CV/blob/main/%E8%AF%BE%E7%A8%8B%E7%9B%AE%E5%BD%95/cv.PNG" width=400>
